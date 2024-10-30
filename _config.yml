@@ -1,7 +1,7 @@
 title: Titterpig Academy
 description: Creating Resources to learn TTRPGS
 sitename: Titterpig Academy
-baseurl: '/'
+#baseurl: '/'
 sass:
   sass_dir: /assets/_sass
   style: :compressed

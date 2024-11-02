@@ -10,4 +10,4 @@ You will also soon be able to find our podcast, Titterpig Radio, anywhere that y
 
 We have a [blog](https://titterpig.academy/blog) where we post articles that look into and explain various aspects of the TTRPG hobby.
 
-<button class="ml-onclick-form" onclick="ml('show', 'gclyrp', true)">Signup for our Newsletter</button>
+<!--<button class="ml-onclick-form" onclick="ml('show', 'gclyrp', true)">Signup for our Newsletter</button>-->

@@ -1,2 +1,2 @@
-<meta http-equiv="Refresh" content="0; url='https://tiltify.com/@slovenlytrulls/white-team-2025-msf-drive'" />
-You will be redirected soon. If you are not, click [here](https://tiltify.com/@slovenlytrulls/white-team-2025-msf-drive)
+<meta http-equiv="Refresh" content="0; url='https://donorbox.org/blackgirlscode'" />
+You will be redirected soon. If you are not, click [here](https://donorbox.org/blackgirlscode)

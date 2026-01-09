@@ -1,2 +1,2 @@
-<meta http-equiv="Refresh" content="0; url='https://donate.tiltify.com/1e3b52fd-7c24-4903-bae3-dcfff308912f/details'" />
-You will be redirected soon. If you are not, click [here](https://donate.tiltify.com/1e3b52fd-7c24-4903-bae3-dcfff308912f/details)
+<meta http-equiv="Refresh" content="0; url='https://tiltify.com/@slovenlytrulls/2026-ttrpgtok-rewards-bundle'" />
+You will be redirected soon. If you are not, click [here](https://tiltify.com/@slovenlytrulls/2026-ttrpgtok-rewards-bundle)
